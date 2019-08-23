@@ -1,4 +1,4 @@
-# Literature Overview
+# Literature Overview 📚
 Some literature on different topics I came across and found very helpful.
 
 ## Natural Language Processing (NLP)
