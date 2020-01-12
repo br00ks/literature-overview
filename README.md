@@ -1,5 +1,5 @@
 # Literature Overview 📚
-Some literature on different topics I came across and found very helpful or I am planning on reading.
+Some literature on different topics I came across and found very helpful or I am planning to read.
 
 ## Natural Language Processing (NLP)
 - "Speech and Language Processing" by Dan Jurafsky and James H. Martin. ✔️ Link: https://web.stanford.edu/~jurafsky/slp3/ 
